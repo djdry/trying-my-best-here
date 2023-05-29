@@ -1,3 +1,6 @@
+![image](https://github.com/djdry/trying-my-best-here/assets/2754158/96d52b07-8721-4ada-aae1-fa26f81f4a11)
+
+
 ## Bad
 
 <audio controls><source src="https://github.com/djdry/trying-my-best-here/raw/main/bad.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
