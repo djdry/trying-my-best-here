@@ -1,3 +1,7 @@
-1. [Bad](https://github.com/djdry/trying-my-best-here/raw/main/bad.m4a)
+1. [Bad](https://github.com/djdry/trying-my-best-here/raw/main/bad.mp3)
 2. [Maybe](https://github.com/djdry/trying-my-best-here/raw/main/maybe.m4a)
 3. [Angel](https://github.com/djdry/trying-my-best-here/raw/main/angel.m4a)
+
+<a href="https://github.com/djdry/trying-my-best-here/raw/main/bad.mp3" download>Bad</a>
+
+<audio controls><source src="https://github.com/djdry/trying-my-best-here/raw/main/bad.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
