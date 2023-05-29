@@ -2,7 +2,7 @@
 
 <audio controls><source src="https://github.com/djdry/trying-my-best-here/raw/main/bad.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
 
-<a href="bad.mp3" download target="_blank">Download</a>
+<a href="bad.mp3" download="bad.mp3" target="_blank">Download</a>
 
 ## Angel
 
